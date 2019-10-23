@@ -27,7 +27,7 @@ h1 {
   width: 100%;
 }
 
-h2 {
+h2 .list {
   color: #FFEAC2;
   background-color: #a52a2a;
   font-family: arial;
